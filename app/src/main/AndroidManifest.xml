@@ -1,0 +1,33 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.JSH.ChasquillApp">
+
+    <!-- Permiso para enviar notificaciones -->
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"> <!-- Cambiar a AppTheme si no necesitas SplashTheme aquí -->
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/SplashTheme"> <!-- Aplicar el tema de Splash aquí -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".MastersListActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".AdminModeActivity" />
+
+    </application>
+
+</manifest>

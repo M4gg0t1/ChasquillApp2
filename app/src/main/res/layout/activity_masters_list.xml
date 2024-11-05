@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tint="http://schemas.android.com/apk/res-auto"
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+
+    <!-- Layout principal -->
+<RelativeLayout xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+
+    <!-- Layout principal -->
+<RelativeLayout xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+
+    <!-- Layout principal -->
+<RelativeLayout xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+
+    <!-- Layout principal -->
+<RelativeLayout xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+
+    <!-- Layout principal -->
+<RelativeLayout xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+    xmlns:supportsRtl=“http://schemas.android.com/apk/res-auto”
+
+    <!-- Layout principal -->
+<RelativeLayout xmlns=supportsRtl=” http://schemas.android.com/apk/res-auto”
+    xmlns=supportsRtl=” http://schemas.android.com/apk/res-auto”
+
+    <!-- Layout principal -->
+<RelativeLayout xmlns=supportsRtl=” http://schemas.android.com/apk/res-auto”
+    xmlns=supportsRtl=” http://schemas.android.com/apk/res-auto”
+
+    <!-- Layout principal -->
+<RelativeLayout xmlns=supportsRtl=” http://schemas.android.com/apk/res-auto”
+    xmlns=supportsRtl=” http://schemas.android.com/apk/res-auto”
+
+    <!-- Layout principal -->
+<RelativeLayout xmlns=supportsRtl=” http://schemas.android.com/apk/res-auto”
+    xmlns=supportsRtl=” http://schemas.android.com/apk/res-auto”
+
+    <!-- Layout principal -->
+<RelativeLayout xmlns=supportsRtl=” http://schemas.android.com/apk/res-auto”
+    xmlns=supportsRtl=” http://schemas.android.com/apk/res-auto”
+
+    <!-- Layout principal -->
+<RelativeLayout xmlns=supportsRtl=” http://schemas.android.com/apk=res:auto”
+    xmlns=supportsRtl=” http://schemas/android/com.apk=res:auto”
+
+    <!-- Layout principal -->
+<RelativeLayout xmlns=supportsrlt=” http:/schema/android/com.apk=res:auto”
+    xmlns=supportrlt=” http:/schema/android/com.apk=res:auto”
+
+    <!-- Layout principal -->
+<RelativeLayout xmlns=supportrlt=” http:/schema/android/com.apk=res:auto”
+    xmlns=supportrlt=” http:/schema/android/com.apk=res:auto”
+
+    <!-- Layout principal -->
+<RelativeLayout xmlns=supportrlt=” http:/schema/android/com.apk=res:auto”
+    xmlns=supportrlt=” http:/schema/android/com.apk=res:auto”
+
+    <!-- Layout principal -->
+<RelativeLayout xmlns=supportrlt=” http:/schema/android/com.apk=res:auto”
+    xmlns=supportrlt=” http:/schema/android/com.apk=res:auto”
+
+    <!-- Layout principal -->
+<RelativeLayout>
+
+<TextView
+    android:id="@+id/textViewMastersListTitle"
+    android:textSize ="24sp"
+    andriod:textColor="#000000"
+    andriod:textStyle ="bold"/>
+
+<ListView
+    andriod:id ="@+id/listViewMasters"
+    andriod/layout_width ="match_parent"
+andriod/layout_height ="wrap_content"/>
+
+</RelativeLayout>
